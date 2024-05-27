@@ -28,7 +28,7 @@ Os roteiros agora são interativos, você pode clicar nos nós para ler mais sob
 
 ![](https://i.imgur.com/waxVImv.png)
 
-Here is the list of available roadmaps with more being actively worked upon.
+Aqui está a lista de roteiros disponíveis, sendo mais ativamente trabalhado.
 
 > Have a look at the [get started](https://roadmap.sh/get-started) page that might help you pick up a path.
 
