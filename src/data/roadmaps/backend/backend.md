@@ -5,7 +5,7 @@ order: 2
 briefTitle: 'Backend'
 briefDescription: 'Step by step guide to becoming a backend developer in 2024'
 title: 'Backend Developer'
-description: 'Step by step guide to becoming a modern backend developer in 2024'
+description: 'Guia passo a passo para se tornar um desenvolvedor back-end moderno em 2024'
 hasTopics: true
 isForkable: true
 tnsBannerLink: 'https://thenewstack.io?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert'

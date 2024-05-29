@@ -1,8 +1,8 @@
 # Internet
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+A Internet é uma rede global de computadores conectados entre si que se comunicam através de um conjunto padronizado de protocolos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
 - [How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
 - [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)

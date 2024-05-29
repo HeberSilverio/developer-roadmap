@@ -1,7 +1,9 @@
+# O que é o projeto
+
 <p align="center">
   <img src="public/images/brand.png" height="128">
   <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <p align="center">Roteiros, artigos e recursos orientados pela comunidade para desenvolvedores<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
@@ -20,17 +22,45 @@
 
 <br>
 
-![](https://i.imgur.com/waxVImv.png)
 
+## Como eu rodo esse projeto
+Clone o repositório, instale as dependências e inicie a aplicação
+
+```bash
+git clone https://github.com/HeberSilverio/developer-roadmap.git
+cd developer-roadmap
+npm install
+npm run dev
+```
+
+Nota: use o `depth` parâmetro para reduzir o tamanho do clone e acelerar o clone.
+
+```sh
+git clone --depth=1 https://github.com/HeberSilverio/developer-roadmap.git
+```
+
+<hr />  
+
+## ⌨️ Como executar o projeto
+```
+# Execute com o comando `npm run dev`
+Será necessário abrir seu navegador e acessar: `http://localhost:3000/`
+```
+
+
+![](https://i.imgur.com/waxVImv.png)
+<div align="center">
 Os roteiros agora são interativos, você pode clicar nos nós para ler mais sobre os tópicos.
 
-### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)
-
+### [Ver todos os roteiros](https://roadmap.sh) &nbsp;&middot;&nbsp; [Melhores Práticas](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questões](https://roadmap.sh/questions)
+</div>
 ![](https://i.imgur.com/waxVImv.png)
+
+## E como eu uso esse projeto
 
 Aqui está a lista de roteiros disponíveis, sendo mais ativamente trabalhado.
 
-> Have a look at the [get started](https://roadmap.sh/get-started) page that might help you pick up a path.
+> Dê uma olhada no [roteiro](https://roadmap.sh/get-started){:target="_blank"} procure uma página que pode ajudá-lo a escolher um caminho:
 
 - [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
 - [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
@@ -78,7 +108,7 @@ Aqui está a lista de roteiros disponíveis, sendo mais ativamente trabalhado.
 - [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 - [Technical Writer Roadmap](https://roadmap.sh/technical-writer)
 
-There are also interactive best practices:
+Existem também melhores práticas interativas:
 
 - [Backend Performance Best Practices](https://roadmap.sh/best-practices/backend-performance)
 - [Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)
@@ -94,7 +124,7 @@ There are also interactive best practices:
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## Share with the community
+## Compartilhe com a comunidade
 
 Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the value it provides. It really does help!
 
@@ -104,22 +134,7 @@ Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the va
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://roadmap.sh)
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 
-## Development
 
-Clone the repository, install the dependencies and start the application
-
-```bash
-git clone git@github.com:kamranahmedse/developer-roadmap.git
-cd developer-roadmap
-npm install
-npm run dev
-```
-
-Note: use the `depth` parameter to reduce the clone size and speed up the clone.
-
-```sh
-git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
-```
 
 ## Contribution
 
@@ -134,7 +149,7 @@ git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
 ## Thanks to all contributors ❤
 
  <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
+   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap" style="max-width: 30%;" />
  </a>
 
 ## License

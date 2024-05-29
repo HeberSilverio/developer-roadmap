@@ -1,5 +1,5 @@
 ---
-title: 'How does the internet work?'
+title: 'Como funciona a internet?'
 description: 'Learn the basics of internet and everything involved with this short video series'
 authorId: 'kamran'
 seo:
@@ -17,21 +17,21 @@ tags:
   - 'guide-sitemap'
 ---
 
-Since the explosive growth of web-based applications, every developer stands to benefit from understanding how the Internet works. Through this article and its accompanying introductory series of short videos about the Internet from [code.org](https://code.org), you will learn the basics of the Internet and how it works. After going through this article, you will be able to answer the following questions:
+Desde o crescimento explosivo dos aplicativos baseados na Web, todo desenvolvedor pode se beneficiar ao compreender como a Internet funciona. Através deste artigo e da série introdutória de pequenos vídeos sobre a Internet que o acompanha em [code.org](https://code.org), você aprenderá os fundamentos da Internet e como ela funciona. Depois de ler este artigo, você será capaz de responder às seguintes perguntas:
 
-- What is the Internet?
-- How does the information move on the internet?
-- How do the networks talk to each other and the protocols involved?
-- What's the relationship between packets, routers, and reliability?
-- HTTP and the HTML – How are you viewing this webpage in your browser?
-- How is the information transfer on the internet made secure?
-- What is cybersecurity and what are some common internet crimes?
+- O que é a Internet?
+- Como a informação circula na internet?
+- Como as redes conversam entre si e os protocolos envolvidos?
+- Qual é a relação entre pacotes, roteadores e confiabilidade?
+- HTTP e HTML – Como você está visualizando esta página no seu navegador?
+- Como é feita a segurança da transferência de informações na Internet?
+- O que é segurança cibernética e quais são alguns crimes comuns na Internet?
 
-## What is the Internet?
+## O que é a Internet?
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+A Internet é uma rede global de computadores conectados entre si que se comunicam através de um conjunto padronizado de protocolos.
 
-In the video below, Vint Cerf, one of the "fathers of the internet," explains the history of how the Internet works and how no one person or organization is really in charge of it.
+No vídeo abaixo, Vint Cerf, um dos “pais da Internet”, explica a história de como a Internet funciona e como nenhuma pessoa ou organização é realmente responsável por ela.
 
 <iframe class="w-full aspect-video mb-5" width="100%" height="400" src="https://www.youtube.com/embed/Dxcc6ycZ73M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
