@@ -42,11 +42,12 @@ git clone --depth=1 https://github.com/HeberSilverio/developer-roadmap.git
 <hr />  
 
 ## ⌨️ Como executar o projeto
-```
-# Execute com o comando `npm run dev`
-Será necessário abrir seu navegador e acessar: `http://localhost:3000/`
-```
 
+> Execute com o comando `npm run dev`
+Será necessário abrir seu navegador e acessar: 
+```
+http://localhost:3000/
+```
 
 ![](https://i.imgur.com/waxVImv.png)
 <div align="center">
@@ -54,13 +55,14 @@ Os roteiros agora são interativos, você pode clicar nos nós para ler mais sob
 
 ### [Ver todos os roteiros](https://roadmap.sh) &nbsp;&middot;&nbsp; [Melhores Práticas](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questões](https://roadmap.sh/questions)
 </div>
+
 ![](https://i.imgur.com/waxVImv.png)
 
 ## E como eu uso esse projeto
 
 Aqui está a lista de roteiros disponíveis, sendo mais ativamente trabalhado.
 
-> Dê uma olhada no [roteiro](https://roadmap.sh/get-started){:target="_blank"} procure uma página que pode ajudá-lo a escolher um caminho:
+> Dê uma olhada no <a href="https://roadmap.sh/get-started" target="_blank">roteiro</a>procure uma página que pode ajudá-lo a escolher um caminho:
 
 - [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
 - [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
@@ -148,8 +150,8 @@ Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the va
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap" style="max-width: 30%;" />
+ <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors" style="max-width: 30%;">
+   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"  />
  </a>
 
 ## License
