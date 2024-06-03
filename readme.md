@@ -1,62 +1,4 @@
-# O que é o projeto
 
-<p align="center">
-  <img src="public/images/brand.png" height="128">
-  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
-  <p align="center">Roteiros, artigos e recursos orientados pela comunidade para desenvolvedores<p>
-  <p align="center">
-    <a href="https://roadmap.sh/roadmaps">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-    <a href="https://roadmap.sh/best-practices">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
-    </a>
-    <a href="https://roadmap.sh/questions">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-  </p>
-</p>
-
-<br>
-
-
-## Como eu rodo esse projeto
-Clone o repositório, instale as dependências e inicie a aplicação
-
-```bash
-git clone https://github.com/HeberSilverio/developer-roadmap.git
-cd developer-roadmap
-npm install
-npm run dev
-```
-
-Nota: use o `depth` parâmetro para reduzir o tamanho do clone e acelerar o clone.
-
-```sh
-git clone --depth=1 https://github.com/HeberSilverio/developer-roadmap.git
-```
-
-<hr />  
-
-## ⌨️ Como executar o projeto
-
-> Execute com o comando `npm run dev`
-Será necessário abrir seu navegador e acessar: 
-```
-http://localhost:3000/
-```
-
-![](https://i.imgur.com/waxVImv.png)
-<div align="center">
-Os roteiros agora são interativos, você pode clicar nos itens para ler mais sobre os tópicos.
-
-### [Ver todos os roteiros](https://roadmap.sh) &nbsp;&middot;&nbsp; [Melhores Práticas](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questões](https://roadmap.sh/questions)
-</div>
-
-![](https://i.imgur.com/waxVImv.png)
 
 ## E como eu uso esse projeto
 
@@ -123,6 +65,66 @@ Existem também melhores práticas interativas:
 - [JavaScript Questions](https://roadmap.sh/questions/javascript)
 - [Node.js Questions](https://roadmap.sh/questions/nodejs)
 - [React Questions](https://roadmap.sh/questions/react)
+
+![](https://i.imgur.com/waxVImv.png)
+
+# O que é o projeto
+
+<p align="center">
+  <img src="public/images/brand.png" height="128">
+  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
+  <p align="center">Roteiros, artigos e recursos orientados pela comunidade para desenvolvedores<p>
+  <p align="center">
+    <a href="https://roadmap.sh/roadmaps">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    </a>
+    <a href="https://roadmap.sh/best-practices">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
+    </a>
+    <a href="https://roadmap.sh/questions">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    </a>
+  </p>
+</p>
+
+<br>
+
+
+## Como eu rodo esse projeto
+Clone o repositório, instale as dependências e inicie a aplicação
+
+```bash
+git clone https://github.com/HeberSilverio/developer-roadmap.git
+cd developer-roadmap
+npm install
+npm run dev
+```
+
+Nota: use o `depth` parâmetro para reduzir o tamanho do clone e acelerar o clone.
+
+```sh
+git clone --depth=1 https://github.com/HeberSilverio/developer-roadmap.git
+```
+
+<hr />  
+
+## ⌨️ Como executar o projeto
+
+> Execute com o comando `npm run dev`
+Será necessário abrir seu navegador e acessar: 
+```
+http://localhost:3000/
+```
+
+![](https://i.imgur.com/waxVImv.png)
+<div align="center">
+Os roteiros agora são interativos, você pode clicar nos itens para ler mais sobre os tópicos.
+
+### [Ver todos os roteiros](https://roadmap.sh) &nbsp;&middot;&nbsp; [Melhores Práticas](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questões](https://roadmap.sh/questions)
+</div>
 
 ![](https://i.imgur.com/waxVImv.png)
 
