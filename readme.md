@@ -51,7 +51,7 @@ http://localhost:3000/
 
 ![](https://i.imgur.com/waxVImv.png)
 <div align="center">
-Os roteiros agora são interativos, você pode clicar nos nós para ler mais sobre os tópicos.
+Os roteiros agora são interativos, você pode clicar nos itens para ler mais sobre os tópicos.
 
 ### [Ver todos os roteiros](https://roadmap.sh) &nbsp;&middot;&nbsp; [Melhores Práticas](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questões](https://roadmap.sh/questions)
 </div>
@@ -62,7 +62,7 @@ Os roteiros agora são interativos, você pode clicar nos nós para ler mais sob
 
 Aqui está a lista de roteiros disponíveis, sendo mais ativamente trabalhado.
 
-> Dê uma olhada no <a href="https://roadmap.sh/get-started" target="_blank">roteiro</a>procure uma página que pode ajudá-lo a escolher um caminho:
+> Dê uma olhada no <a href="https://roadmap.sh/get-started" target="_blank">roteiro</a> procure uma página que pode ajudá-lo a escolher um caminho:
 
 - [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
 - [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)

@@ -1,9 +1,9 @@
-# Hosting
+# Hospedagem
 
-Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.
+Hospedagem na Web é um serviço online que permite publicar os arquivos do seu site na Internet. Assim, qualquer pessoa que tenha acesso à internet tem acesso ao seu site.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
-- [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
-- [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
+- [O que é hospedagem na web? Explicado](https://www.youtube.com/watch?v=htbY9-yggB0)
+- [Explicação sobre diferentes tipos de hospedagem na web](https://www.youtube.com/watch?v=AXVZYzw8geg)
+- [Onde hospedar um projeto Fullstack dentro do orçamento](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
