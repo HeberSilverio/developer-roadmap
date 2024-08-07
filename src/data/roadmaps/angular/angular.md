@@ -5,7 +5,7 @@ order: 3
 briefTitle: 'Angular'
 briefDescription: 'Step by step guide to become a Angular Developer in 2024'
 title: 'Angular Developer'
-description: 'Everything that is there to learn about Angular and the ecosystem in 2024.'
+description: 'Tudo o que há para aprender sobre Angular e o ecossistema em 2024.'
 hasTopics: true
 dimensions:
   width: 968
